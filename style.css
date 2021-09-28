@@ -1,0 +1,40 @@
+body{
+    background-size: cover;
+    padding:10px;
+    margin:10px;
+   
+    
+}
+#header{
+   font-weight: bold; 
+   font-family: "Grechen Fuemen " ;
+   box-shadow: 5px 5px 18px black;
+   font-size: x-large;
+   color: black;
+}
+#NOTE{
+    font-weight: bold;
+    font-family: "Grechen Fuemen";
+    color: black;
+    box-shadow: 5px 5px 18px black;
+    font-size: x-large;
+}
+#Results{
+    font-weight: bold;
+    font-family: "Grechen Fuemen";
+    box-shadow: 5px 5px 18px black;
+    font-size: x-large;
+    color: black;
+}
+#NOTE2{
+    color: blue;
+}
+canvas{
+    border-radius: 10px;
+    border: 10px;
+    box-shadow: 5px 5px 18px blue ;
+    margin-top:260px;
+}
+
+
+    
